@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLinkedList", "DLinkedList\DLinkedList.csproj", "{4407FAB4-5F90-4380-B03B-85B95A611E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLinkedList.Tests", "DLinkedList.Tests\DLinkedList.Tests.csproj", "{5DCDDED0-D9B1-43F8-A5DF-565F98F75362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLinkedList.Playground", "DLinkedList.Playground\DLinkedList.Playground.csproj", "{487E5E1C-A580-4406-BA97-882137603D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4407FAB4-5F90-4380-B03B-85B95A611E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4407FAB4-5F90-4380-B03B-85B95A611E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4407FAB4-5F90-4380-B03B-85B95A611E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4407FAB4-5F90-4380-B03B-85B95A611E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCDDED0-D9B1-43F8-A5DF-565F98F75362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCDDED0-D9B1-43F8-A5DF-565F98F75362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCDDED0-D9B1-43F8-A5DF-565F98F75362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCDDED0-D9B1-43F8-A5DF-565F98F75362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487E5E1C-A580-4406-BA97-882137603D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487E5E1C-A580-4406-BA97-882137603D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487E5E1C-A580-4406-BA97-882137603D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487E5E1C-A580-4406-BA97-882137603D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
