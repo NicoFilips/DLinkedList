@@ -15,8 +15,8 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '8.0.x' # Ändere dies entsprechend deiner .NET-Version
-
+        dotnet-version: '8.0.x'
+        
     - name: Define Package Version
       id: package_version
       run: echo "PACKAGE_VERSION=$(git tag --sort=v:refname | tail -n 1 | sed 's/v//')" >> $GITHUB_ENV
