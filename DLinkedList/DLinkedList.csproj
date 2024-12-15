@@ -4,8 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <IsPackable>true</IsPackable>
     <PackageId>DLinkedList</PackageId>
-    <PackageVersion>8.0.1</PackageVersion>
-    <Version>8.0.1</Version>
+    <PackageVersion>8.0.2</PackageVersion>
+    <Version>8.0.2</Version>
     <Authors>Nico Filips</Authors>
     <ImplicitUsings>true</ImplicitUsings>
     <Description>This Package provides a generic double linked list!</Description>
